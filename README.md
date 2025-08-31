@@ -16,6 +16,6 @@ This is a Top View of the Friction Tester (CAD by EGR team; I contributed to the
 [CAD model Picture 2](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/IMG_1740%20(1).jpg)
 This is a Side View of the Friction Tester.
 
-
+Machine Design Cont.: To measure the friction testing data, a calibrated force gauge (up to 200N) was integrated to measure the precise injection force. Using a software system such as Logger Lite, the force sensor can take the data and allow for "run/ stop" cycles which can produce a force graph (Newtons per Second). From here, the raw data from Logger Lite can be taken and put either in excel or MATLAB to generate more presentable data.
 
 with minimal particulates exasterabted from the surface to prevent contaimination from entering patient's eye. With this in mind, the need for the coating to be durable is essential.
