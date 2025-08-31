@@ -11,8 +11,9 @@ Machine Design: From a conceptual standpoint, the main design was to hold the sy
 Together with the engineering team, the original CAD was as follows: 
 
 [CAD model Picture 1](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/IMG_1741%20(1).jpg)
+This is a Top View of the Friction Tester (CAD by design team; I contributed to the mechanical design concept and system validation).
 [CAD model Picture 2](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/IMG_1740%20(1).jpg)
-
+This is a Side View of th Friction Tester.
 
 
 
