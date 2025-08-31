@@ -16,7 +16,10 @@ This is a Top View of the Friction Tester (CAD by EGR team; I contributed to the
 [CAD model Picture 2](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/IMG_1740%20(1).jpg)
 This is a Side View of the Friction Tester.
 
-Machine Design Cont.: To measure the friction testing data, a calibrated force gauge (up to 200N) was integrated to measure the precise injection force. Using a software system such as Logger Lite, the force sensor can take the data and enables "run/ stop" cycles which can produce a force graph (N vs. s). Additionally, to take the data from the force gauge and translate the data to the computer, a "Go!Link" USB interface was used. The raw data could then be exported to Excel or MATLAB for further processing, allowing for clearer visualization and analysis of the results.
+Machine Design Cont.: To measure the friction testing data, a calibrated force gauge (up to 200N) was integrated to measure the precise injection force. Using a software system such as Logger Lite, the force sensor can take the data and enable "run/ stop" cycles which can produce a force graph (N vs. s). Additionally, to take the data from the force gauge and translate the data to the computer, a "Go!Link" USB interface was used. The raw data could then be exported to Excel or MATLAB for further processing, allowing for clearer visualization and analysis of the results.
+
+An example is seen below:
+[IOL Excel Friction Graph](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/IMG_1741%20(1).jpg)
 
 Machine Build: 
 
