@@ -1,6 +1,8 @@
 # IOL-Friction-Testing
 Project Scope: Create a friction testing system that can quanitatively measure the durability and lubricity of a hydrophilic polymer coating. Due to the complex geometry of the IOL (Intraocular Lens) cartridge, a precise testing setup is essential. Client informed a strong need for exceptional coating performance - including measuring lubricity, durability, and perfroming a qualitative post-injection inspection under a 1000x 3D surface video microscope. The video below demonstrates the proper setup
 
+▶️ [Watch Demo Video](https://www.youtube.com/watch?v=hCSQh5XpoV4)
+
 
 with minimal particulates exasterabted from the surface to prevent contaimination from entering patient's eye. With this in mind, the need for the coating to be durable is essential.
 
