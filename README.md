@@ -1,11 +1,18 @@
 # IOL-Friction-Testing
-Project Scope: Create a friction testing system that can quanitatively measure the durability and lubricity of a hydrophilic polymer coating. Due to the complex geometry of the IOL (Intraocular Lens) cartridge, a precise testing setup is essential. Client informed a strong need for exceptional coating performance - including measuring lubricity, durability, and perfroming a qualitative post-injection inspection under a 1000x 3D surface video microscope. The video below demonstrates the proper setup
+Project Scope: Create a friction testing system that can quanitatively measure the durability and lubricity of a hydrophilic polymer coating. Due to the complex geometry of the IOL (Intraocular Lens) cartridge, a precise testing setup is essential. Client informed a strong need for exceptional coating performance - including measuring lubricity, durability, and perfroming a qualitative post-injection inspection under a 1000x 3D surface video microscope. 
 
-▶️ [Watch Demo Video](https://www.youtube.com/watch?v=hCSQh5XpoV4)
+IOL & Cataract Info: An IOL is used by an ophthalmologist (eye surgeon) to treat cataracts. A cataract is when a the eye's natural lens becomes "cloudy" causing degenerative vision loss. To address this disease, engineers and doctors have created the IOL to act as a new artifical lens. Typically, an ophthalmologist will remove the natural, cloudy lens, and replace it with an IOL. To understand and visually understand the IOL, the IOL cartridge and it's proepr setep, please view the video below.
+
+▶️ [Three-Piece IOL Lens Loading Tutorial in Two Minutes by: Matt Hirabayashi MD (@EyeFlyMD)](https://www.youtube.com/watch?v=hnIIPaW2O_Y)
+
+
+Machine Design: From a conceptual standpoint, the main design was to hold the syringe with the loaded IOL cartridge and allow, the "plunger" to press on the IOL at a consistent speed. Furthermore, the layout of the machine would have to only allow for horizontal movement to mimic the ophthalmologist procedure. From a mechanical standpoint, the design used a stepper motor driving a worm gear–lead screw assembly, which converts rotary motion into precise and uniform horizontal linear motion through the lead screw.
+
+Together with the engineering team, the original CAD was as follows: 
+
+
+
+
 
 
 with minimal particulates exasterabted from the surface to prevent contaimination from entering patient's eye. With this in mind, the need for the coating to be durable is essential.
-
-IOL & Cataract Info: An IOL is used by an ophthalmologist (eye surgeon) to treat cataracts. A cataract is when a the eye's natural lens becomes "cloudy" causing degenerative vision loss. To address this disease, engineers and doctors have created the IOL to act as a new artifical lens. Typically, an ophthalmologist will remove the natural, cloudy lens, and replace it with an IOL.
-
-Machine Design: In order to properly design the friction tester, it is essential to understand the IOL insertion 
