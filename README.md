@@ -1,7 +1,7 @@
 # IOL-Friction-Testing
 Project Scope: Create a friction testing system that can quanitatively measure the durability and lubricity of a hydrophilic polymer coating. Due to the complex geometry of the IOL (Intraocular Lens) cartridge, a precise testing setup is essential. Client informed a strong need for exceptional coating performance - including measuring lubricity, durability, and perfroming a qualitative post-injection inspection under a 1000x 3D surface video microscope. 
 
-IOL & Cataract Info: An IOL is used by an ophthalmologist (eye surgeon) to treat cataracts. A cataract is when a the eye's natural lens becomes "cloudy" causing degenerative vision loss. To address this disease, engineers and doctors have created the IOL to act as a new artifical lens. Typically, an ophthalmologist will remove the natural, cloudy lens, and replace it with an IOL. To understand and visually understand the IOL, the IOL cartridge and it's proepr setep, please view the video below.
+IOL & Cataract Info: An IOL is used by an ophthalmologist (eye surgeon) to treat cataracts. A cataract is when an eye's natural lens becomes "cloudy" causing degenerative vision loss. To address this disease, engineers and doctors have created the IOL to act as a new artifical lens. Typically, an ophthalmologist will remove the natural, cloudy lens, and replace it with an IOL. To understand and visually understand the IOL, the IOL cartridge and it's proper setep, please view the video below.
 
 ▶️ [Three-Piece IOL Lens Loading Tutorial in Two Minutes by: Matt Hirabayashi MD (@EyeFlyMD)](https://www.youtube.com/watch?v=hnIIPaW2O_Y)
 
