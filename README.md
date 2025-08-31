@@ -10,6 +10,7 @@ Machine Design: From a conceptual standpoint, the main design was to hold the sy
 
 Together with the engineering team, the original CAD was as follows: 
 
+[CAD model](https://github.com/username/repo/blob/main/images/cad_model_1.jpg)
 
 
 
