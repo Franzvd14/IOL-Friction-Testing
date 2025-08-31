@@ -8,13 +8,13 @@ IOL & Cataract Info: An IOL is used by an ophthalmologist (eye surgeon) to treat
 
 Machine Design: From a conceptual standpoint, the main design was to hold the syringe with the loaded IOL cartridge and allow, the "plunger" to press on the IOL at a consistent speed. Furthermore, the layout of the machine would have to only allow for horizontal movement to mimic the ophthalmologist procedure. From a mechanical standpoint, the design used a stepper motor driving a worm gear–lead screw assembly, which converts rotary motion into precise and uniform horizontal linear motion through the lead screw.
 
-Together with the engineering team, the original CAD was as follows: 
+Together with the EGR team, the original CAD was as follows: 
 
 [CAD model Picture 1](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/IMG_1741%20(1).jpg)
-This is a Top View of the Friction Tester (CAD by design team; I contributed to the mechanical design concept and system validation).
+This is a Top View of the Friction Tester (CAD by EGR team; I contributed to the mechanical design concept and system validation).
 
 [CAD model Picture 2](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/IMG_1740%20(1).jpg)
-This is a Side View of th Friction Tester.
+This is a Side View of the Friction Tester.
 
 
 
