@@ -28,5 +28,20 @@ Machine Build:
 The machine while being built is pictured below.
 
 [Friction Testing Machine](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/Friction.jpg)
+
 This picture shows each component and the early assembly of the friction tester.
+
+Injection Testing: After the completion of the machine assembly and setup/calibrations were complete, the machine was ready to be put to the test and generate data. As discussed previously, the IOL cartridge would be loaded with an IOL and it's viscous saline solution. From here the logger lite system would be recording the data and the friction testing machine would simultaneously start and the injection process would begin and the injection force would be measured. 
+
+To show the effects of how crucial and effective the hydrophilic coating is, I've attached an uncoated and coated video of the friction testing injecting the lens. Please see below:
+
+
+[Uncoated Trial Run](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/Friction.jpg)
+
+[Coated Trial Run](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/Friction.jpg)
+
+
+As seen in the videos, there is a substantial difference in the ease of injection. The uncoated sample showed complete injection failure, causing the syringe to break due to excessive forces being exerted on the polycarbonate syringe. In the coated video, we can see a smooth injection showing success in the coating's efficiency.
+
+
 
