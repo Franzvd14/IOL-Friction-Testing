@@ -24,6 +24,8 @@ An example is seen below:
 This graph shows the AVG. force of the uncoated sample (Close to 113N) and the coated sample (Close to 4.5 N). From here a simple calculation (AVG uncoated / AVG coated) is made to show how many more times the coated surface is more lubricious compared to the uncoated surface. It's important to note the objective is to find the lens injection force. This means that there had to be additional testing where data was collected from just the plunger and the viscious saline being injected without the lens to find the correct true lens force. Upon finding this data, the data without the lens was subtracted from the data with the lens granting the true lens injection force.
 
 Machine Build: 
+
 The machine while being built is pictured below.
+
 [Friction Testing Machine](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/Friction.jpg)
 
