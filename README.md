@@ -38,7 +38,7 @@ To show the effects of how crucial and effective the hydrophilic coating is, I'v
 
 [Uncoated Trial Run](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/Friction.jpg)
 
-[Coated Trial Run](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/Friction.jpg)
+[Coated Trial Run](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/IMG_1966%20(1).MOV)
 
 
 As seen in the videos, there is a substantial difference in the ease of injection. The uncoated sample showed complete injection failure, causing the syringe to break due to excessive forces being exerted on the polycarbonate syringe. In the coated video, we can see a smooth injection showing success in the coating's efficiency.
