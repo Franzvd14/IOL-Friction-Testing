@@ -36,7 +36,7 @@ Injection Testing: After the completion of the machine assembly and setup/calibr
 To show the effects of how crucial and effective the hydrophilic coating is, I've attached an uncoated and coated video of the friction testing injecting the lens. Please see below:
 
 
-[Uncoated Trial Run](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/Friction.jpg)
+[Uncoated Trial Run](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/IMG_1963%20(2).mov)
 
 [Coated Trial Run](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/IMG_1966%20(1).MOV)
 
