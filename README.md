@@ -6,7 +6,7 @@ IOL & Cataract Info: An IOL is used by an ophthalmologist (eye surgeon) to treat
 ▶️ [Three-Piece IOL Lens Loading Tutorial in Two Minutes by: Matt Hirabayashi MD (@EyeFlyMD)](https://www.youtube.com/watch?v=hnIIPaW2O_Y)
 
 
-Machine Design: From a conceptual standpoint, the main design was to hold the syringe with the loaded IOL cartridge and allow, the "plunger" to press on the IOL at a consistent speed. Furthermore, the layout of the machine would have to only allow for horizontal movement to mimic the ophthalmologist procedure. From a mechanical standpoint, the design used a stepper motor driving a worm gear–lead screw assembly, which converts rotary motion into precise and uniform horizontal linear motion through the lead screw.
+Machine Design: From a conceptual standpoint, the main design was to hold the syringe with the loaded IOL cartridge and allow, the "plunger" to press on the IOL at a consistent speed. Furthermore, the layout of the machine would have to only allow for horizontal movement to mimic the ophthalmologist procedure. From a mechanical standpoint, the design used a stepper motor directly coupled to a lead screw assembly, converting rotary motion into precise and uniform horizontal linear motion of the carriage.
 
 Together with the EGR team, the original CAD was as follows: 
 
@@ -16,6 +16,8 @@ This is a Top View of the Friction Tester (CAD by EGR team; I contributed to the
 [CAD model Picture 2](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/IMG_1740%20(1).jpg)
 This is a Side View of the Friction Tester.
 
-Machine Design Cont.: To measure the friction testing data, a calibrated force gauge (up to 200N) was integrated to measure the precise injection force. Using a software system such as Logger Lite, the force sensor can take the data and allow for "run/ stop" cycles which can produce a force graph (Newtons per Second). Additionally, to take the data from the force gauge and translate the data to the computer, a "Go!Link" USB interface was used. From here, the raw data from Logger Lite can be taken and put either in excel or MATLAB to generate more presentable data.
+Machine Design Cont.: To measure the friction testing data, a calibrated force gauge (up to 200N) was integrated to measure the precise injection force. Using a software system such as Logger Lite, the force sensor can take the data and enables "run/ stop" cycles which can produce a force graph (N vs. s). Additionally, to take the data from the force gauge and translate the data to the computer, a "Go!Link" USB interface was used. The raw data could then be exported to Excel or MATLAB for further processing, allowing for clearer visualization and analysis of the results.
 
-with minimal particulates exasterabted from the surface to prevent contaimination from entering patient's eye. With this in mind, the need for the coating to be durable is essential.
+Machine Build: 
+
+
