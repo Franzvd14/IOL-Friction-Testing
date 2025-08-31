@@ -19,7 +19,8 @@ This is a Side View of the Friction Tester.
 Machine Design Cont.: To measure the friction testing data, a calibrated force gauge (up to 200N) was integrated to measure the precise injection force. Using a software system such as Logger Lite, the force sensor can take the data and enable "run/ stop" cycles which can produce a force graph (N vs. s). Additionally, to take the data from the force gauge and translate the data to the computer, a "Go!Link" USB interface was used. The raw data could then be exported to Excel or MATLAB for further processing, allowing for clearer visualization and analysis of the results.
 
 An example is seen below:
-[IOL Excel Friction Graph](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/IMG_1741%20(1).jpg)
+[IOL Excel Friction Graph](https://github.com/Franzvd14/IOL-Friction-Testing/blob/main/IMG_1987%20(1).jpg)
+This graph shows the AVG. force of the uncoated sample (Close to 190N) and the coated sample (Close to 5 N). From here a simple calculation is made to show how many more times the coated surface is more lubricious compared to the uncoated surface. It's important to note the objective is to find the lens injection force. This means that there had to be additional testing where data was collected from just the plunger and the viscious liquid being injected without the lens to find the correct true lens force. Upon finding this data, the data without the lens was subtracted from the data with the lens granting the true lens injection force.
 
 Machine Build: 
 
